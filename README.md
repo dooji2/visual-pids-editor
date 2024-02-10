@@ -2,6 +2,7 @@
 ![a](https://i.imgur.com/0HWSaMk.png)
 #
 
+[<img src="https://i.imgur.com/4In8RrM.png" alt="Resource Downloader - Modrinth Page" width="240" height="120">](https://modrinth.com/mod/visual-pids-editor) 
 [<img src="https://i.imgur.com/HUk4jEx.png" alt="Resource Downloader - GitHub Page" width="240" height="120">](https://github.com/dooji2/visual-pids-editor/issues)
 
 <details>
