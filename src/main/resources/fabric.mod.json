@@ -11,7 +11,7 @@
 		"homepage": "https://modrinth.com/mod/visual-pids-editor",
 		"sources": "https://github.com/dooji2/visual-pids-editor/issues"
 	},
-	"license": "All Rights Reserved",
+	"license": "GPL-3.0",
 	"icon": "assets/doojisjp/doojis_visualpidseditor.png",
 	"environment": "*",
 	"entrypoints": {
