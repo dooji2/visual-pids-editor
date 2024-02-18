@@ -1,0 +1,7 @@
+{
+    "target": "net.minecraft.client.gui.screen.OptionsScreen",
+    "mixins": [
+      "com.doojis.jp.mixin.OptionsMixin"
+    ]
+  }
+  
